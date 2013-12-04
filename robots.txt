@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://lydiaMaRui.github.io/sitemap.xml 

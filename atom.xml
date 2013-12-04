@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Wise黑客LYDIA]]></title>
+  <link href="http://lydiaMaRui.github.io/atom.xml" rel="self"/>
+  <link href="http://lydiaMaRui.github.io/"/>
+  <updated>2013-12-04T22:32:58+08:00</updated>
+  <id>http://lydiaMaRui.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[蕊少的博客]]></title>
+    <link href="http://lydiaMaRui.github.io/blog/2013/12/03/my-first-blog/"/>
+    <updated>2013-12-03T20:12:40+08:00</updated>
+    <id>http://lydiaMaRui.github.io/blog/2013/12/03/my-first-blog</id>
+    <content type="html"><![CDATA[<h1>这是我的第一篇octopress博客</h1>
+]]></content>
+  </entry>
+  
+</feed>
